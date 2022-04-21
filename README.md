@@ -33,7 +33,7 @@ Cara Penggunaan
 
 1. Buka aplikasi. Akan terlihat schedule pada hari pertama.
 
-Tampilan Hari Pertama.png
+![This is an image](https://github.com/nfsakmal/Tugas4PAM/blob/main/SS/Tampilan%20Hari%20Pertama.png)
 
 2. Klik tombol arrow.
 
