@@ -37,8 +37,8 @@ Cara Penggunaan
 
 2. Klik tombol arrow.
 
-Arrow.png
+![This is an image](https://github.com/nfsakmal/Tugas4PAM/blob/main/SS/Arrow.png)
 
 3. Maka akan muncul schedule hari berikutnya
 
-Tampilan Hari Berikut.png
+![This is an image](https://github.com/nfsakmal/Tugas4PAM/blob/main/SS/Tampilan%20Hari%20Berikut.png)
